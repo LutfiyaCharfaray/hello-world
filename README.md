@@ -1,2 +1,3 @@
 # hello-world
-another repository
+Hi! 
+My name is Lutfiya and I'm still trying to navigate my way through life.
